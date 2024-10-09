@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-# * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Cartography and Geographical Information System, Wuhan University, 2025 (expected)
-* B.S. in Geophysics, Wuhan University, 2022
+* M.S. in Cartography and Geographical Information System, **Wuhan University**, 2025 (expected)
+* B.S. in Geophysics, **Wuhan University**, 2022
 
 Publications
 ======
@@ -29,7 +28,7 @@ Talks
     
 Service and leadership
 ======
-* July 2023 - July 2023: **Teaching Assistant** in The International GeoInformatics Summer School (IGSS)
+* July 2023: **Teaching Assistant** in The International GeoInformatics Summer School (IGSS)
 * Mar. 2023 - Present: **Department Member** in Social Activity Department of GeoScience Cafe
 
 Skills
