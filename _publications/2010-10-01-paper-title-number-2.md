@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "How can SHAP (SHapley Additive exPlanations) interpretations improve deep learning based urban cellular automata model?"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2024-05-24
+venue: 'Computers, Environment and Urban Systems'
+paperurl: 'https://github.com/Amandayoula/Amandayoula.github.io/blob/master/files/Yang%20%E7%AD%89%20-%202024%20-%20How%20can%20SHAP%20(SHapley%20additive%20exPlanations)%20interpretations%20improve%20deep%20learning%20based%20urban%20cellu.pdf'
+# slideurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Yang, C., Guan, X.*, Xu, Q., Xing, W., Chen, X., Chen, J., & Jia, P. (2024). How can SHAP (SHapley Additive exPlanations) interpretations improve deep learning based urban cellular automata model?. In Computers, Environment and Urban Systems, 111, 102133.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Interpretations of the urban cellular automata (CA) model aim to ensure that its predictive behaviors are consistent with real-world processes. Current urban CA interpretations have revealed the impacts of driving factors on land development suitability, or neighborhood effects and random perturbation on simulation results. However, three limitations remain unresolved: (1) the interpretations of deep learning (DL)-based urban CA are seldom integrated with the prerequired feature selection, (2) the input features from different urban CA modules are still explained by separate approaches, and (3) the interpretation results are rarely derived at the cell level to uncover spatially varying urban land development patterns. This study proposes a SHapley Additive exPlanations (SHAP)-based urban CA interpretation framework to address these challenges and improve urban CA. This framework uses model-level SHAP importance to identify dominant features from different modules for constructing the final simulation model. Then, cell-level SHAP importance is used to uncover spatially varying driving forces of urban expansion. The framework's effectiveness is rigorously tested and confirmed using a convolution neural network CA (CNN-CA) model for Dongguan City. The experimental results demonstrate that (1) SHAP-based model interpretation improves feature selection for DL-based urban CA. The figure of merit for CNN-CA calibrated using SHAP-based important features improves by 3%, outperforming the tested baseline methods. (2) SHAP measures the impacts of each feature from different CA modules in a whole. In this case, physical factors are much more important at the model level than proximity and accessibility factors, while neighborhood effect is the second most crucial factor. (3) Cell-level SHAP interpretations uncover spatially different urban land development patterns. For example, due to the extensive industrial land development in the northern Songshan Lake Zone, in the CNN-CA model, proximity to major roads within this region is associated with positive SHAP-based contribution share on cell-level urban expansion.
