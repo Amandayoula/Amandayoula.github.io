@@ -3,7 +3,7 @@ title: "How can SHAP (SHapley Additive exPlanations) interpretations improve dee
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Keywords: Model interpretability; SHapley Additive exPlanations; Feature selection; Cellular automata; Convolution neural network; Urban growth simulation'
 date: 2024-05-24
 venue: 'Computers, Environment and Urban Systems'
 paperurl: 'https://github.com/Amandayoula/Amandayoula.github.io/blob/master/files/Yang%20%E7%AD%89%20-%202024%20-%20How%20can%20SHAP%20(SHapley%20additive%20exPlanations)%20interpretations%20improve%20deep%20learning%20based%20urban%20cellu.pdf'
