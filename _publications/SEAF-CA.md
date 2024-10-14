@@ -1,7 +1,7 @@
 ---
 title: "Enhancing outlying growth simulation in urban cellular automata via intelligent extraction-fusion of land suitability and neighborhood effects: a case study of Wuhan, China"
 collection: publications
-# category: manuscripts
+category: manuscripts
 permalink: /publication/SEAF-CA
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 excerpt: 'Keywords: Urban growth; cellular automata; deep learning; outlying growth; land suitability; neighborhood effects'
