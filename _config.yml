@@ -21,7 +21,7 @@ repository               : "amandayoula/amandayoula.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/Amandayoula/Amandayoula.github.io/blob/master/images/avatar.heic"
+  avatar           : "https://github.com/Amandayoula/Amandayoula.github.io/blob/master/images/avatar.png"
   name             : "Chen Xiaoyu"
   pronouns         : # example: "she/her"  
   bio              : "My research focuses on GeoAI, Urban Informatics and Graph Neural Network."
